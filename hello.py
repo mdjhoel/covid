@@ -14,7 +14,7 @@ else:
     print("booo wrong answer")
 '''
 
-fruits = ['apple,grannysmith,gala','orange,mandarin,bloodorange','banana,big,small','peach,sweet,not sweet']
+fruits = ['applepen,grannysmith,gala','orange,mandarin,bloodorange','banana,big,small','peach,sweet,not sweet']
 for fruit in fruits:
     templist = fruit.split(",")
     print(fruit)
